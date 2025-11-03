@@ -11,4 +11,4 @@ This is a lightweight FastAPI web app that uses Groq’s Llama 3.1 model via the
 ## Run locally
 ```bash
 pip install -r requirements.txt
-uvicorn app:app --reload
+uvicorn app_fastapi:app --reload
